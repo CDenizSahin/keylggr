@@ -1,0 +1,16 @@
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\bin\Debug\net8.0-windows\games.exe
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\bin\Debug\net8.0-windows\games.deps.json
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\bin\Debug\net8.0-windows\games.runtimeconfig.json
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\bin\Debug\net8.0-windows\games.dll
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\bin\Debug\net8.0-windows\games.pdb
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.Form1.resources
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.csproj.GenerateResource.cache
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.AssemblyInfoInputs.cache
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.AssemblyInfo.cs
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.csproj.CoreCompileInputs.cache
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.dll
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\refint\games.dll
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.pdb
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\games.genruntimeconfig.cache
+C:\Users\cemde\OneDrive\Desktop\kydnz\games\games\obj\Debug\net8.0-windows\ref\games.dll
