@@ -92,13 +92,10 @@ kydnz/
 
 ## Test videosu
 
-[YouTube - Test videosu](https://youtu.be/8OCjT8Liph4)
+[YouTube - Test videosu](https://youtu.be/r_LvIWJCcRE)
 
 ## Sorumluluk Reddi
 
 Bu deposu kullanarak, tüm faaliyetleri yalnızca yasal ve etik sınırlar içinde, rıza alınmış ve izole bir laboratuvar ortamında gerçekleştirmeyi kabul edersiniz. Yazarlar, üçüncü taraflara karşı yapılabilecek yetkisiz, etik dışı veya yasa dışı faaliyetlerden sorumlu tutulamaz.
 
-## Lisans
-
-Bir lisans dosyası (`LICENSE`) ekleyerek kullanım koşullarını netleştirmeniz tavsiye edilir. Açık kaynak lisanslarından (MIT, Apache-2.0 vb.) biri tercih edilebilir.
 
