@@ -25,17 +25,6 @@ namespace games
             TuslariDinle();
         }
 
-        /*
-         * YouTube ==>  Pisqo Channel C#,PHP,JAVA  <== YouTube
-         * 
-         * D�nyan�n sonu, b�yle her anlat�lan� �aka zannedip
-         * alk��layan insanlar�n y�kselen alk�l�ar� aras�nda gelicek.
-         * 
-         *#NurullaG��
-         *@nurullah_guc instagram,twitter
-         ==>  Pisqo Channel C#,PHP,JAVA  <== 
-          */
-
 
 
         [DllImport("user32.dll")]
